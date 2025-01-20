@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sunilbastola
-- 👀 I’m interested in AI, strtups and entrepreneurship.
+- 👀 I’m interested in AI, startups and entrepreneurship.
 - 🌱 I’m currently learning Deep Learning with TensorFlow.
 - 💞️ I’m looking to collaborate on Machine Learning Projects.
 - 📫 How to reach me Linkedin(sunil-bastola)
