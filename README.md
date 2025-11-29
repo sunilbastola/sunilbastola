@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sunilbastola
 - 👀 I’m interested in AI, startups and entrepreneurship.
-- 🌱 I’m currently learning Deep Learning with TensorFlow.
+- 🌱 I’m currently learning Deep Learning with Pytorch, for advance algorithms.
 - 💞️ I’m looking to collaborate on Machine Learning Projects.
-- 📫 How to reach me Linkedin(sunil-bastola)
+- 📫 How to reach me Linkedin(linkedin.com/in/sunil-bastola)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I donot know how to code🧑‍💻..
 
