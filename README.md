@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Machine Learning Projects.
 - 📫 How to reach me Linkedin(sunil-bastola)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am not from CS background..
+- ⚡ Fun fact: I donot know how to code🧑‍💻..
 
 <!---
 sunilbastola/sunilbastola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
